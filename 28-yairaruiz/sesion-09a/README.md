@@ -17,7 +17,7 @@ Recordatorios:
 
 + Terminal block:   es un componente modular con un marco aislado que une de forma segura y ordenada dos o más cables eléctricos. Se utilizan para fijar, conectar y distribuir conductores en tableros eléctricos y dispositivos industriales. 
 
-## Contorno PBC
+## Contorno PCB
 
 La clase comenzó con la creación del contorno de la PCB. Esto se realiza en la capa Edge.Cuts, utilizando la herramienta de rectángulo. Luego, se hace doble click sobre el rectángulo para ajustar sus dimensiones y redondear las esquinas.
 El siguiente paso fue acomodar los componentes dentro del contorno creado. La idea de esta etapa es ordenar los componentes de manera estética y funcional, por lo que se recomienda ir revisando constantemente el visor 3D para observar cómo se verá la PCB físicamente.
