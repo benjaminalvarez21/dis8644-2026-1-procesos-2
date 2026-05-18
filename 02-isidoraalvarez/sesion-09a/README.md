@@ -29,3 +29,11 @@ usaremos 7 capas:
 2 de cobre, adelante y atrás: F.Cu, B.Cu
 2 de silkscreen
 2 de mask
+
+
+
+
+
+texto: hacia una filosofia de la fotografia-Vilem Flusser
+
+
