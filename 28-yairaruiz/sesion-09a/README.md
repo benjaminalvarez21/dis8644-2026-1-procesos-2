@@ -36,7 +36,7 @@ Después comenzamos a trabajar con las pistas, que son líneas de cobre dentro d
 Se recomienda trabajar con dos medidas de pistas:
 
 - 0.4 mm
-- 0.5 mm
+- 0.8 mm
 
 Para enrutar pistas se utiliza la herramienta de trazado de pistas, donde también se puede configurar el grosor.
 Primero aprendimos a realizar las conexiones positivas utilizando pistas de 0.8 mm. Luego, usamos pistas de 0.4 mm para las conexiones entre componentes.
@@ -44,3 +44,4 @@ Cuando las conexiones se cruzan, las pistas no pueden pasar una encima de otra e
 
 Una vía es una conexión que une la capa frontal (F.Cu) con la capa trasera (B.Cu). Mientras se está trazando una pista, si esta se cruza con otra, se puede crear una vía para continuar el recorrido por la parte trasera y así evitar cruces. Con la tecla V se puede cambiar entre la capa frontal y la trasera durante el trazado.
 Si hacemos click en una vía, también es posible modificar su tamaño. 
+

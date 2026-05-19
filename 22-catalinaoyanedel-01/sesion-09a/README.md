@@ -131,8 +131,56 @@ En capa F.Silkscreen / B.Silkscreen
 
 Archivo > importar > gráficos. Asegurarse de la escala.
 
-
+------------------------------------------------------------------------------------------------------
 ### Encargo:
+#### 01. Esquemáticos y PCB en KiCad
+
+En cuanto a los esquemáticos, no tuve ningún tipo de problema más complejo que olvidar los comandos, lo que solucioné revisando los apuntes de la clase.
+
+Lo que si olvidé fue cómo cambiar las patas del chip, pero sé que lo vimos en la clase del viernes y repasando eso lo puedo aprender.
+
+pinchando cosas llegué a la opción!! así que se logró :) 
+
+**parte uno - clock - esquemático**
+
+![esquematico 555](./imagenes/555.png)
+
+**parte uno - clock - pcb**
+
+No tuve mayores compliciones para la PCB hasta llegar a ground, seguí los pasos tal cual la clase y en vez de hacerse un relleno quedaba como un borde, incluso apretando B.
+
+![pcb 555](./imagenes/pcb-555.png)
+
+Al pasarlo al visor 3D se me veía así, no sé si esté bien:
+
+![visor 3d](./imagenes/visor3d-1.png)
+
+**parte dos - secuenciador - esquemático**
+
+Acá el único problema que se me presentó fue que no supe como etiquetar la parte del clock para conectarlo a esta parte del circuito.
+
+![esquematico 4017](./imagenes/4017.png)
+
+**parte dos - secuenciador - pcb**
+
+Me costó encontrar una huella para el chip 4017 y al buscar me apareció esto:
+
+El 4017 no requiere descargar un footprint especial de internet, ya que usa un empaque estándar de circuito integrado de 16 pines (DIP16).
+• Abre el **Asociador de huellas** (*Assign Footprints* o *CvPCB*).
+• En el filtro de búsqueda, escribe **`Package_DIP:DIP-16`** si vas a usar un zócalo o perforar la placa.
+• Si planeas soldar el componente directamente en montaje superficial, busca **`Package_SO:SOIC-16`** o el formato **`TSSOP-16`** según la variante específica que indique el *datasheet* de tu componente
+
+Así que utilicé una de esas.
+
+![pcb 4017](./imagenes/pcb-4017.png)
+
+Acá sí logré hacer el ground! Ni idea por qué no me funcionó el anterior… pero lo bueno es que creo que ya tengo claro como hacerlo
+
+![visor 3d 4017](./imagenes/visor3d-2.png)
+
+_probando colores y formas de la placa_
+
+------------------------------------------------------------------------
 
 #### 02. Lectura de libro de Flusser — Capítulo 1
 
