@@ -10,7 +10,7 @@ smd:(Surface Mount Device) Los componentes SMD se montan directamente sobre la s
 tht:Through Hole Technology) Los componentes THT tienen patitas largas que atraviesan agujeros en la placa y se sueldan por el otro lado.
 patitas sch
 
-soic package: este no atraviesa la plaga 
+soic package: este no atraviesa la placa 
 dip sefuido de la cantidad de patas que tiene
 dip-16_w7.62mm longpads patitas anchas
 dip-8_w7.62mm_longpads
