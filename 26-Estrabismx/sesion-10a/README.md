@@ -63,6 +63,8 @@ En base a la imagen y videos de youtube como el de más arriba llegue a este esq
 
 ![4040](./imagenes/sc38.png)
 
+<br>
+
 ## Texto ##
 
 La verdad leí pero con prisa y sin comprender que leía, por lo que no recuerdo nada más que conceptos claves:
