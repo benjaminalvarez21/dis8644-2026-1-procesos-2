@@ -36,7 +36,7 @@ www.falstad.com
 
 Mientras esto sucedía, el equipo vió cuales condensadores ceramicos eran los necesarios 
 
-![condensadores ceramicos](./imagenes/ceramico.jpg)
+![condensadores ceramicos](./imagenes/ceramico.png)
 
 - Siendo los 103, los 104 y los 224
 
