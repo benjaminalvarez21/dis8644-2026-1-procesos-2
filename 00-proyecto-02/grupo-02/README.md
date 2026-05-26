@@ -2,20 +2,21 @@
 
 ## Grupo
 
-Número de grupo: XX
+Número de grupo: 02
 
-Tema del grupo: OscilaXX
+Tema del grupo: Secuenciador 
 
 Integrantes:
 
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-
+- Isidora Alvarez / isidoraalvarez
+- Dayana Pañitrur / dayanapanitrur
+- Camila Ramirez / Estrabismx
+- Angel Sabogal / angel-udp
+- Tomas Catrileo / tomascatri
+  
 ## Circuito 1
 
-Título módulo 1
+Contador binario/ CD4040
 
 ### Descripción general/conceptual 1
 
