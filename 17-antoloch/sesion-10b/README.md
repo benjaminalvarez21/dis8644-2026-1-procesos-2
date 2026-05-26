@@ -65,7 +65,9 @@ En esta clase vimos diferentes dudas, entre todos nos ayudamos y se resulvieron 
 - Seleccionar huella en `.pcb` → tecla **E** → menú **3D Models** → cargar modelos descargados.  
 - Exportar placa completa: **File → Export → STEP/STL/etc.**
 
-Cap 2 y 3
+
+## Cap 2 y 3
+
 muestran que la fotografía no es un espejo del mundo, sino un lenguaje límitado por máquinas y sistemas industriales. En donde el fotógrafo es un quien explora las posibilidades que estan  en el programa (camara), no es totalmente libre que decide todo. La verdadera libertad estaría en subvertir el aparato, usar la cámara de una forma que no estaba previsto, romper las reglas.
 
 Flusser dice que las imaagenes técnicas no son lo mismo que las imágenes tradicionales. Las tradicionales son prehistóricas, porque existieron antes de la escritura, y son abstracciones directas del mundo. En cambio, las técnicas son poshistóricas, porque nacen de los textos científicos aplicados. Son abstracciones: primero del mundo, luego de las imágenes, luego de los textos, y finalmente de los aparatos que producen esas imágenes. Es como una cadena: una foto es una imagen de una imagen de una imagen.
