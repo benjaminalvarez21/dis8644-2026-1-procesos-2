@@ -59,3 +59,20 @@ Y estas oscilaciones, se controlan con los potenciómetros, que son lo que nos p
 | `LM 324` | Cuádruple amplificador operacional. Incluye 4 op-amps en un solo chip. |
 
 ## 5.	Flusser, cap. 4, 5
+
+#### Capítulo 4: El acto de fotografiar 
+
+“Una fotografía es una imagen de conceptos”  
+En este capítulo, el autor hace una gran metáfora para explicarnos su reflexión, y es que, el acto de fotografiar es como un acto de “cacería”. Con lo anteriormente mencionado, entremos en materia.
+
+El autor comienza el capítulo realizando esa metáfora (de cacería), porque la acción de tomar una foto parece que se está pendiente a capturar algo, y se hace. En la fotografía, esta cacería ocurre en un denso bosque de objetos culturales [por los cuales estamos mediados, a su vez nuestros intereses personales e intenciones], esto también hace referencia a la cultura de nosotrxs poder escoger que objetos queremos que estén en el encuadre y “escenario” de la fotografía (escoger los objetos que queremos cazar)…, es un acto intencionado. Bien, todas estas estructuras culturales se ven en el acto mismo del fotógrafo, o eso es lo que se cree, pues el autor luego menciona que estas condiciones culturales son filtradas por el aparato “la cámara”, siendo cubiertas e indescifrables por el programa de la cámara (a los observadores), y el resultado de esto; una cultura de masas general y uniforme generada por los aparatos. 
+
+Luego el autor, habla sobre el poder de la fotografía y el fotógrafo al trabajar y moverse en el espacio-tiempo, pues el fotógrafo tiene el poder de mover los objetos dentro del marco de su cámara para sacar una foto con mayor o menor información (haciendo referencia a que la información serían los objetos puestos en escena) en un escenario y tiempo determinado, y combina estas acciones para poder obtener un producto final. Además, el uso o la manipulación de las configuraciones (ya sea las configuraciones de modo de foto, ráfaga, fotos en movimiento, o de noche, etc), hacen parte de este “juego” de fotografiar. Pero aquí el autor hace una reflexión cuando comenta que al parecer nostrxs los seres humanos tenemos la libertad o parece que tenemos la libertad y control de la cámara para poder materializar nuestras intenciones por medio de la fotografía, pero no es así, pues los fotógrafos trabajan o hacen hasta donde el programa dentro la cámara les permita, por eso el autor dice “La elección de un objeto es libre, en tanto que el objeto esté en armonía con el programa de la cámara”. 
+
+Continuando con el texto, el autor habla como fotografiar (con lo anteriormente mencionado), se convierte en un acto de buscar las posibilidades no descubiertas dentro del programa de la cámara, porque ella es la que condiciona todo, y es por esto que siguiendo este orden de ideas, se marca una gran distinción entre realismo e idealismo la cual es superada por la fotografía, pues “el mundo exterior” deja de ser lo real, lo mismo sucede con la “intención” del fotógrafo o la condición de la cámara…, lo que es “real”, es o sería la imagen como tal. Es aquí donde el autor menciona una palabra clave, haciendo mención de que; el acto de fotografiar es un acto de “duda fenomenológica”, porque hay dos elementos esenciales, los cuales son; El fotógrafo actúa de forma posideológica (diversos puntos de vistas e ideologías), y la practica de la fotografía esta sujeta a un programa, pues el fotógrafo solo puede actuar  dentro de un programa (valiendo la redundancia), y esto lleva a que se considere que lo “real” sea la información en sí misma (lo literal que nuestrxs ojos ven en la imagen), y no el significado de esta. A esto se le suma que una de las maneras de saber la intención del fotógrafo, es viendo una serie de sus fotografías, ya que ninguna foto individual es decisiva. (pero esto se ve mejor en el cap 5).
+
+
+Para ir culminando este texto, el autor propone que el fotógrafo y la cámara se unen para convertirse en una sola función, buscar información, y es la fotografía el producto del acto fotográfico.
+Fin. 
+
+#### Capítulo 5: La fotografía 
