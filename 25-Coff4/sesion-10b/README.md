@@ -124,15 +124,15 @@ Pero saber sacar fotos no necesariamente te hace un fotógrafo experto ni saber 
 
 Por eso, muchas fotografías reflejan más el programa de la cámara que las intenciones de quien la utiliza
 
-Puedes presentarlo como una enumeración:
+Conteo enumerado *Extracto del texto*
 
-- 1 El universo fotográfico es el resultado de un juego de combinaciones**, el cual ha sido programado y refleja el funcionamiento de ese programa.
+- 1 El universo fotográfico es el producto de un juego de *combinaciones* éste ha sido programado y significa su programa.
 
-- 2 Este juego opera de manera automática, sin seguir una estrategia consciente o deliberada.
+- 2 Segundo, el juego es automático; no obedece a una estrategia deliberada.
 
-- 3 El universo fotográfico está formado por fotografías claras y diferenciadas, donde cada una representa un punto específico dentro del programa.
+- 3 Tercero, el universo fotográfico está compuesto de fotografías claras y distintas; cada una de ellas significa un punto específico del programa.
 
-- 4 Cada fotografía funciona como una imagen o superficie que actúa como modelo de conducta para quien la observa.
+- 4 Cuarto, cada fotografía es una superficie, una imagen, que sirve de modelo para la conducta de su receptor.
 
 *En resumen, el universo fotográfico es un medio para programar en la sociedad una conducta retroalimentadora en función de un juego de combinaciones*
 
