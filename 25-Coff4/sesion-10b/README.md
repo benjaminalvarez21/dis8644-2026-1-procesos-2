@@ -131,7 +131,7 @@ tipo como: "Una imagen vale más que mil palabras"
 Por eso es más probable que la gente acepte más las imágenes sin analizarlas ni cuestionarlas, dejandonos sin pensamiento critico al largo plazo, dejandonos influir por lo que otros quieran darnos...que mundo retorcido en el que vivimos.
 
 
-*Me lei de más y termine poniendo parte del cap 8 en el 7...que cosas Xd*
+*Me leí de más y terminé poniendo parte del cap 8 en el 7...que cosas Xd*
 
 
 
