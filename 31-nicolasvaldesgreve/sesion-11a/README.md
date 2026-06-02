@@ -44,5 +44,6 @@ Me gustó como en el último capítulo Flusser hace un resumen con palabras súp
 + Biunívoca: Que se establece entre los elementos de dos conjuntos cuando, a cada elemento de un conjunto, le corresponde uno y solo uno de los elementos del otro, y viceversa
 
 Fuentes:
-<https://www.filosofia.org/enc/fer/materia2.htm>
-<https://www.rae.es/diccionario-estudiante/biun%C3%ADvoco>
+
++ <https://www.filosofia.org/enc/fer/materia2.htm>
++ <https://www.rae.es/diccionario-estudiante/biun%C3%ADvoco>
