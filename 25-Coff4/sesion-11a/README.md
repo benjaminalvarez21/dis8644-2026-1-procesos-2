@@ -37,3 +37,64 @@ Para la siguiente clase deberia ver si poner las huellas
 (Spoiler: No va a pasar)
 
 Parece ser un dia bastante menos agitado de lo usual, pero igualmente me alegra cooperar :3
+
+---
+
+## Percutor time!
+
+![Proyecto](./imagenes/version2.png)
+
+Aquí se demuestra la segunda propuesta en su esplendor
+
+![555](./imagenes/555_agregado.png)
+
+Se ve más en detalle el 555 integrado junto al percutor que ya hicimos para la propuesta 1
+
+Se supone que esto (Percutor) funciona como un platillo de bateria, si lo golpeas, sonara. AHORA TIENE UNA LOGICA! El 555 funciona como la baqueta que marca el ritmo
+
+![CINEMA](./imagenes/cine.gif)
+
+*También se me olvido agregar el nombre al proyecto*
+
+![Womp](./imagenes/olvidado.png)
+
+---
+
+Nota: La fuente de poder ahora es diferente:
+
+![Jack](./imagenes/entrada_audio.jpg)
+
+
+## Armado loco:
+
+![Proceso de reloj y secuenciador](./imagenes/armado.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/armado_1.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/modify.jpg)
+
+![Proceso de reloj y secuenciador](./imagenes/modify_2.jpg)
+
+Y MIRA COMO SUENA EL BABY!:
+
+[![Ver video](https://img.youtube.com/vi/FxfNUCrtlaU/maxresdefault.jpg)](https://www.youtube.com/watch?v=FxfNUCrtlaU)
+
+
+## Capitulo semi final y final (8 y 9)
+
+
+
+Esto lo pondre para analizarlo porque lo puse antes y era para esta clase XCCCCC
+
+
+Conteo enumerado *Extracto del texto*
+
+- 1 El universo fotográfico es el producto de un juego de *combinaciones* éste ha sido programado y significa su programa.
+
+- 2 Segundo, el juego es automático; no obedece a una estrategia deliberada.
+
+- 3 Tercero, el universo fotográfico está compuesto de fotografías claras y distintas; cada una de ellas significa un punto específico del programa.
+
+- 4 Cuarto, cada fotografía es una superficie, una imagen, que sirve de modelo para la conducta de su receptor.
+
+*En resumen, el universo fotográfico es un medio para programar en la sociedad una conducta retroalimentadora en función de un juego de combinaciones*
