@@ -19,7 +19,7 @@ Escribir esto me hizo pensar el porqué lo hago, porque escribiría algo que qui
 https://historia.nationalgeographic.com.es/a/distintos-tipos-amor-segun-filosofia-griega_20870
 https://www.lanacion.com.ar/lifestyle/aristoteles-el-amor-esta-compuesto-por-un-alma-habitando-dos-cuerpos-nid09042026/
 
-—---
+----
 
 también tuvimos que limpiar la sala ya que no estaba en sus optimas condiciones 
 
