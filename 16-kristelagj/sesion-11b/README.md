@@ -16,6 +16,9 @@ Con esto no quiero llegar a una reflexión más profunda, pero que te tomes el t
 
 Escribir esto me hizo pensar el porqué lo hago, porque escribiría algo que quizás no tenga tanta relación a lo que vemos en la clase, pero en verdad si la tiene. Sin estas reflexiones y comentarios no tendría las reflexiones que hoy en día presentó en el curso, esto es algo que siempre realizo en mis croqueras, independiente del ramo, pero creo al fin se me da el espacio para poder expresarme más allá de solo una hoja de papel que es personal y nadie más leerá. A pesar de que quizás nadie lea estos párrafos, me siento escuchada. En cualquier minuto puedo volver aquí y leer como pensaba la Kriss de cuarto año, cuáles eran sus reflexiones de la vida. 
 
+https://historia.nationalgeographic.com.es/a/distintos-tipos-amor-segun-filosofia-griega_20870
+https://www.lanacion.com.ar/lifestyle/aristoteles-el-amor-esta-compuesto-por-un-alma-habitando-dos-cuerpos-nid09042026/
+
 ### clase
 
 - Misaa
