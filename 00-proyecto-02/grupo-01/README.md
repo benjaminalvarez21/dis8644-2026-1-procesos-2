@@ -25,15 +25,15 @@ Este módulo te permite interactuar con el sintetizador mediante vibraciones en 
 ### Descripción de funcionamiento 1
 
 El circuito se conforma de 7 partes;
-  - Piezoelectrico
+  - Piezoeléctrico
   - Pre-Amp (TL072)
   - Inversor de señal (2N2222)
   - Regulador de voltaje (L7805CV)
   - Filtro Low-pass
   - Clock (NE555P)
-  - Sequenciador (CD4017)
+  - Secuenciador (CD4017)
 
-Como estandar en el trabajo todos tenemos que alimentar nuestro circuito con 5V. Para esto usamos el L7805CV
+Como estándar en el trabajo todos tenemos que alimentar nuestro circuito con 5V. Para esto usamos el L7805CV
 
 El piezo tiene 3 estados al recibir señal. ( imagen explicativa )
 
@@ -45,7 +45,7 @@ Para afinar la señal que recibe el inversor, colocamos un filtro low-pass, esto
 
 - Modificando los valores de las resistencias, se logra amplificar la sensibilidad del piezo (gracias misaaaaaa).
 - Tener protoboard con los orificios **no** suelto es vital para que el circuito sea estable y se pueda mover.
-- Que ciertos amplificadores tienen usos especificos, como el LM386 que es optimo para parlantes, pero no piezos.
+- Que ciertos amplificadores tienen usos específicos, como el LM386 que es óptimo para parlantes, pero no piezos.
 - Se pueden sustituir componentes con valores diferentes **``2.2k Ω ---> 47 Ω``**
 
 ### Esquemático 
@@ -160,11 +160,11 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 
 ### ¿Cómo ayudé a otro grupo?
 
-Ayudamos al grupo 03 (osciladores 1) prestandoles dos potenciómetros B100K y 
+Ayudamos al grupo 03 (osciladores 1) prestándoles dos potenciómetros B100K y 
 
 ### ¿Cómo me ayudó otro grupo?
 
-Santiago Cifuentes del grupo 04 (osciladores 2) nos ayudo con la compra de componentes y apoyo emocional de manera constante tanto dentro como fuera de clases.
+Santiago Cifuentes del grupo 04 (osciladores 2) nos ayudó con la compra de componentes y apoyo emocional de manera constante tanto dentro como fuera de clases.
 
 ## Bibliografía
 
@@ -177,4 +177,3 @@ Santiago Cifuentes del grupo 04 (osciladores 2) nos ayudo con la compra de compo
 + misaaaaaa. (n.d.). transistoresDeclaman. GitHub. Retrieved 3 16, 2025, from <https://github.com/misaaaaaa/transistoresDeclaman/blob/main/sch.pdf>
 
 + Pimpom. (2018, 1 25). TL072 as mike input preamp. diyAudio. <https://www.diyaudio.com/community/threads/tl072-as-mike-input-preamp.317907/>
-
