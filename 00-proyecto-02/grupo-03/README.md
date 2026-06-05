@@ -34,13 +34,14 @@ Título módulo 1
 
 ### PCB 1
 
-```markdown
-![pcb front](./imagenes/pcb-front-1.png)
-```
++ Front
+  
+![pcb front](./imagenes/pcb-1.jpg)
 
-```markdown
-![pcb back](./imagenes/pcb-back-1.png)
-```
++ Back
+  
+![pcb back](./imagenes/pcb-3.jpg)
+
 
 ### Documentación audiovisual funcionamiento protoboard 1
 
