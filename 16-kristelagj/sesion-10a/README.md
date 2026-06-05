@@ -34,6 +34,7 @@ Flusser nos menciona en este capítulo que el fotógrafo no es libre de tomar de
 
 El fotógrafo no captura la realidad.
 Por otro lado, el fotógrafo busca imágenes que no se hayan visto antes, no es de su interés repetir fotografías ya existentes, el quiere imágenes nuevas, será para él una búsqueda constante de posibilidades ocultas dentro de la cámara.
+
 *capítulo 5: la fotografía*
 
 El autor se comienza a cuestionar la creencia de que la fotografía es la copia de la realidad, siendo símbolos codificados. 
