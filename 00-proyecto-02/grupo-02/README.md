@@ -566,19 +566,19 @@ Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcion
 
 ![Funcionamiento circuito 2](./imagenes/circuito2v01.gif)
 
-[![Ejemplo](./imagenes/sc.45.png)](https://www.youtube.com/shorts/Avq0Pz7RgVc)
+[![Ejemplo](./imagenes/sc45.png)](https://www.youtube.com/shorts/Avq0Pz7RgVc)
 
 [![Ejemplo](./imagenes/sc46.png)](https://www.youtube.com/shorts/9iWUSzQ8m6s)
 
-[![Ejemplo](./imagenes/47.png)](https://www.youtube.com/shorts/gLU3cue3pys)
+[![Ejemplo](./imagenes/sc47.png)](https://www.youtube.com/shorts/gLU3cue3pys)
 
-[![Ejemplo](./imagenes/47.png)](https://www.youtube.com/shorts/UzTAtNhPJdo)
+[![Ejemplo](./imagenes/sc47.png)](https://www.youtube.com/shorts/UzTAtNhPJdo)
 
 <br>
 
 ## Otros circuitos
 
-¿Usaron otro circuito temporal para activar algunas cosas? ¿para probar inputs-outputs? Detallar cuales
+Usamos el 555 para generar pulsos que controlan el avance de las secuencias, mientras que el LM386 nos permitió realizar pruebas con la salida de audio, y usamos el 4093 como un oscilador ya que un secuenciador por sí solo no suena, lo usamos para poder verificar el sonido, no nos centramos como en la textura ni del tono si no para ver la frecuencia o sus periodos.
 
 ## Colaboración con otros grupos
 
@@ -590,7 +590,7 @@ Además se ayudo en le uso de KiCad, el como implementar el módulo de alimentac
 
 ### ¿Cómo me ayudó otro grupo?
 
-Recibimos constante ayuda en general en relación al como iban a interactuar con las otras secciones del sintetizador, por ejemplo, con el equipo Piezo se logró entender como ellos influirian en ek secuenciador o como el oscilador debería recibir nuestran señal.
+Recibimos constante ayuda en general en relación al como iban a interactuar con las otras secciones del sintetizador, por ejemplo, con el equipo Piezo se logró entender como ellos influirian en el secuenciador o como el oscilador debería recibir nuestran señal.
 
 Esto fue fundamental para entender el Circuito, además del como se articulaban las PCB, es decir, pensar en el diseño de la interfaz
 
