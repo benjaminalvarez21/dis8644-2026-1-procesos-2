@@ -265,14 +265,16 @@ Los pines que usamos y su función:
 ### PCB 1
 
 <p align="center">
-  <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/43d6dd07-d854-47e5-ac8d-131c7bd17016" />
+  <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/c341426e-dddc-4608-87cc-7114a05a3024" />
+
   <br/>
   <em>pcb front</em>
 </p>
 
 
 <p align="center">
-  <img width="1100" height="600" <img width="1163" height="917" alt="image" src="https://github.com/user-attachments/assets/170e3f27-bd0e-417d-92cc-1abb855920a2" />
+  <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/240c241d-9078-476f-bd2e-d4d48a3a4382" />
+  
   <br/>
   <em>pcb back</em>
 </p>
@@ -367,14 +369,16 @@ Esta segunda propuesta prescinde completamente de chips activos. Usa únicamente
 ### PCB 1
 
 <p align="center">
-  <img width="1100" height="700" <img width="1087" height="871" alt="image" src="https://github.com/user-attachments/assets/45b18f21-d21c-4bae-bf7c-a5853d143a90" />
+  <img width="1100" height="700" alt="image" src="https://github.com/user-attachments/assets/b80cf7c1-493e-4b7f-8162-963ae761e8ec" />
+
   <br/>
   <em>pcb front</em>
 </p>
 
 
 <p align="center">
-  <img width="1100" height="700" <img width="1322" height="968" alt="image" src="https://github.com/user-attachments/assets/d7c02758-59ac-4a53-ae15-0d47ba032fcb" />
+  <img width="1100" height="700" alt="image" src="https://github.com/user-attachments/assets/4917a962-2d6b-4be0-8ac4-e20d9076863b" />
+  
   <br/>
   <em>pcb back</em>
 </p>
