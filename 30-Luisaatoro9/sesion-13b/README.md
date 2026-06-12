@@ -141,3 +141,14 @@ Render exploratorio generado con IA para comunicar la idea al equipo
 
 Algo que me quedó de leer a Yoko Ono es que el objeto tiene valor en la relación que crea con quien lo usa. Un sintetizador donde ves el circuito crea una relación distinta con el músico que uno cerrado en una caja. No es solo un instrumento, es un objeto que te invita a entender cómo funciona, que hace visible su propio proceso. Ono diseñó instrucciones para que las personas las ejecutaran, no para que las guardaran. Esta carcasa hace lo mismo, no guarda el circuito, lo presenta.
 
+# Propuestas Partitura 
+
+### Propuesta 1 
+
+<img width="2480" height="3508" alt="partitura1_filtro_para_escuchar_A4" src="https://github.com/user-attachments/assets/a80d4a03-c41f-4e68-a664-dcc6c38649bd" />
+<img width="1748" height="1748" alt="partitura1_circular_A5" src="https://github.com/user-attachments/assets/cc6da360-941c-41b2-ab58-f72912ba366b" />
+
+
+### Propuesta 2
+
+<img width="2480" height="3508" alt="partitura2_filtro_en_tension_A4" src="https://github.com/user-attachments/assets/15e483e6-ba70-4696-881e-9d930e11e562" />
