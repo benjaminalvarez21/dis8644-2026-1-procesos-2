@@ -72,9 +72,9 @@ Y ya tenemos algunas ideas de partituras.
 
 ---
 
-# Pomelo, Yoko Ono — Capítulos 3 y 4
+## Pomelo, Yoko Ono — Capítulos 3 y 4
 
-## Capítulo 3 — Evento
+### Capítulo 3 — Evento
 
 El nombre me llama la atención porque "evento" suena a algo como una obra?, algo que tiene hora y lugar, las piezas de este cap son cosas que pueden pasar en cualquier momento, o que ya están pasando sin que nadie necesariamente las haya declarado evento antes
 
@@ -90,7 +90,7 @@ También *"Pieza de Olor I"*, enviar el olor de la luna, la luna tendrá olor?.
 
 También me gustaron *"Pieza de Reloj"*, *"Pieza de Espejo"*, *"Pieza de Viaje"* y *"Pieza de Luz"*: llevar una bolsa vacía, subir a la cima de un monte, meter toda la luz posible, volver a casa cuando oscurezca y colgar la bolsa en el medio de la pieza en vez de una lamparita, esta me encanta, me recuerda al meme de guarden luz, cuando tiembla jaja.
 
-## Capítulo 4 — Poesía
+### Capítulo 4 — Poesía
 
 Que este capítulo se llame Poesía también me parece interesante, las piezas de los capítulos anteriores ya eran poesía, no? quizás lo que Yoko quiere decir con "poesía" es que estas son obras donde el lenguaje es el material
 
