@@ -1,7 +1,7 @@
 # sesion-13a
 ## Clase 9, jun
 
-En esta sesión nos enfocamos en el cierre de la etapa de diseño de circuitos en KiCad para pasar formalmente a la producción física y al planteamiento conceptual del Proyecto 03. Revisamos el flujo técnico para exportar los archivos de fabricación hacia JLCPCB y asegurar que las placas mandadas a hacer a China no tengan errores. Además, abrimos la discusión hacia el diseño de la interfaz y la carcasa del sintetizador, analizando referentes de cultura libre y organizamos los listados de materiales para los osciladores.
+En esta Clase nos enfocamos en el cierre de la etapa de diseño de circuitos en KiCad para pasar formalmente a la producción física y al planteamiento conceptual del Proyecto 03. Revisamos el flujo técnico para exportar los archivos de fabricación hacia JLCPCB y asegurar que las placas mandadas a hacer a China no tengan errores. Además, abrimos la discusión hacia el diseño de la interfaz y la carcasa del sintetizador, analizando referentes de cultura libre y organizamos los listados de materiales para los osciladores.
 
 ### Exportación de archivos Gerber desde KiCad a JLCPCB
 
