@@ -155,3 +155,9 @@ Creo que poseo una visión bastante industrial, pero estoy tratando de hacer un 
 
 Soy una persona apasionada por la impresión 3D y aún así siento que no es la tecnica adecuada. Esto por el momento no tiene una explicación, pero quería plasmarlo
 
+<br>
+
+## Yoko Ono - Grapefruit
+
+Mi primera impresión del libro fue de sorpresa, no me esperaba tener que leer algo asi para taller y esto es en parte por lo conceptual del libro. 
+
