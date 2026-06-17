@@ -1,4 +1,6 @@
-# BOM PCB MAINCRA
+# BOM PCB UTILIZADAS
+
+### BOM PCB MAINCRA
 
 | Componente | Cantidad | Valor unitario | Link | ¿Hay stock en LID? |
 | --- | --- | --- | --- | --- |
@@ -30,3 +32,21 @@
 | Batería 9V recargable | 1 | $7.990 | <https://www.sodimac.cl/sodimac-cl/articulo/110251085/bateria-recargable-9v/110251089> | Si |
 | Interruptor Switch | 1 | $570 | <https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html?srsltid=AfmBOorJlIeUySzAORFwXSattHKE4BKH2LmhhXZS_8fZ4MW-G6kwnxqA> | No |
 
+### BOM PCB 02, GRUPO 02: REGISTRO DE DESPLAZAMIENTO ESTÁTICO
+
+| Componente | Cantidad | Valor unitario | Link | Stock en LID |
+| --- | --- | --- | --- | --- | 
+| Chip 4015 | 1 | $1.400 | <https://www.mactronica.com.co/cd4015?srsltid=AfmBOopMDQhFv0vy6tj-sATCKe9rcEpOGbsfz7VMFRrBPl9Yq3KS80wU> | No |
+| Regulador L7805CV | 1 | $350 | <https://www.victronics.cl/reguladores/reguladorvoltl7805cv5v-15ato220/> | Si |
+| Transistor PN2222A | 8 | $220 | <https://www.cabezacuadrada.cl/product/pn2222a/> | X |
+| Transistor BC548 | 1 | $200 | <https://www.mechatronicstore.cl/transistor-bc548/?srsltid=AfmBOorIdGTZFY0mLCpBPP8JWl9WGDELQa-iZIZ95pKPjncWCgmXklr3> | No |
+| LED 3mm | 9 | $100 | <https://www.mechatronicstore.cl/led-3mm-5mm/> | Si |
+| Resistencia 220 Ω | 1 | $90 | <https://www.electroardu.cl/resistencias-1k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt> | Si |
+| Resistencia 1 KΩ | 18 | $90 | <https://www.electroardu.cl/resistencias-1k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt> | Si |
+| Resistencia 10 KΩ | 1 | $90 | <https://www.electroardu.cl/resistencias-1k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt> | Si |
+| Resistencia 100 KΩ | 1 | $90 | <https://www.electroardu.cl/resistencias-1k-ohm?srsltid=AfmBOor81HKrzfoOTnLK3FU6ObPuf1EPUVMS0naCwqMNIzGt8LYDiUYt> | Si |
+| Diodo 1N4007 | 1 | $200 | <https://www.mechatronicstore.cl/diodo-rectificador-in4007-1n4007-4007/> | Si |
+| Condensador cerámico 100 nF | 1 | $100 | <https://www.mechatronicstore.cl/condensadores-ceramicos-distintos-valores/> | Si |
+| Condensador polarizado 10 µF | 1 | $100 | <https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/> | Si |
+| Condensador polarizado 100 µF | 1 | $100 | <https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/> | Si |
+| Interruptor Switch | 1 | $570 | <https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html?srsltid=AfmBOorJlIeUySzAORFwXSattHKE4BKH2LmhhXZS_8fZ4MW-G6kwnxqA> | No |
