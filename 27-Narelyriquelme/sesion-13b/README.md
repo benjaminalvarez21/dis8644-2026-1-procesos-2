@@ -30,7 +30,7 @@ Buscando referentes ambientales: En medio de la búsqueda revisamos temas minima
 El choque con el diseño industrial: Como grupo siento que nos costó un poco arrancar. Como la mayoría somos diseñadores industriales, al menos a mí me costó un montón soltarme y entrar en ese lado más artístico y libre que nos pedía el encargo, porque estamos demasiado acostumbrados a pensar en la funcionalidad técnica y las estructuras de las cosas.
 
 ---
-### Opinión respecto al libro Pomelo de Yoko Ono
+### libro Pomelo de Yoko Ono
 
 Capítulo 3 (Evento):
 Este capítulo me gustó harto porque las instrucciones transforman gestos comunes o imposibles en eventos artísticos puros. Me llamó mucho la atención la *Pieza de nube* de la imagen, que propone andar cavando un hoyo en el jardín para poner las nubes cayendo gota a gota; es físicamente imposible, pero transforma un pensamiento intangible en una acción concreta. También rescato la *Pieza de reloj*, que me dio risa porque propone adelantar los relojes del mundo dos segundos en secreto y yo siempre adelanto los míos. El capítulo me atrapó por completo porque te saca de la realidad mezclando lo cotidiano con lo ilógico, como lo de caminar siguiendo un mapa inventado o tirar una piedra tan alto que nunca regrese.
