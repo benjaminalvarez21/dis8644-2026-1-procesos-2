@@ -5,10 +5,10 @@
 
 En esta clase nos dedicamos a trabajar en el último proyecto antes del examen. Áreas de soldado para poder empezar a ensamblar nuestras placas, con mi grupo decidimos utilizar nuestras dos versiones de osciladores y una de percusión del grupo 06. Logramos soldar todos los componentes a las placas de forma correcta y también el RELO.
  
- ![soldar](./imagenes/soldar.png)
- ![soldar2](./imagenes/soldar2.png)
- ![soldar3](./imagenes/soldar3.png)
- ![antocarla](./imagenes/antocarla.png)
+ ![soldar](./imagenes/soldar.jpeg)
+ ![soldar2](./imagenes/soldar2.jpeg)
+ ![soldar3](./imagenes/soldar3.jpeg)
+ ![antocarla](./imagenes/antocarla.jpeg)
  
 Cap 5
 Cuando leí el capítulo de Objetos en Pomelo, lo que más me quedó dando vueltas fue la Pieza de Quemar. Yoko dice que hay que hacer algo elaborado una autobiografía, un bordado, una silla tallada y después quemarlo, mirando cuánto se demora en arder. Esa idea me pegó fuerte porque normalmente uno hace cosas para que duren, pero acá la gracia está en ver cómo se destruyen. La obra no termina cuando la construyes, sino cuando se convierte en ceniza. Es como si el fuego fuera parte del arte, mostrando lo frágil que es todo lo que hacemos.
