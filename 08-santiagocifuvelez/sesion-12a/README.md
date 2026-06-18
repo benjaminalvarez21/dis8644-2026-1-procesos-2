@@ -33,6 +33,7 @@ Después de muchas revisiones, de llevar el circuito a casa, y ser chequeado en 
 
 Este oscilado generaba ondas cuadradas.
 
+![pau y kress](./imagenes/mis-companeras.jpg)
 
 ## 3.	Realización de una nueva propuesta (3), que presentamos como propuesta 2.
 
