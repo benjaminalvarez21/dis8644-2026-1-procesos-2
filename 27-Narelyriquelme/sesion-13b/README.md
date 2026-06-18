@@ -6,21 +6,21 @@ En esta sesión nos metimos con todo en el tema de las partituras, viendo cómo 
 ### Historia y evolución de las partituras
 * Orígenes y el canto gregoriano: Partimos hablando de las partituras y en mis apuntes anoté que las de los cantos gregorianos son las más antiguas de todas. Estaban escritas en un tetragrama medieval (de 4 líneas) y usaban neumas, que eran unas notas cuadradas. Lo loco es que no tenían las instrucciones tan claras ni compás o ritmo fijo; al final, la melodía se adaptaba por completo al texto en latín. Esto lo armó Guido d’Arezzo por el siglo XI para ordenar la música de la Iglesia.
 
-img
+![ej.1](./imagenes/partitura-1.jpg)
   
 + De las sinfonías a la abstracción: Después pasamos a ver las sinfonías clásicas, que ya eran obras pesadas y complejas para orquestas completas, divididas en cuatro momentos bien marcados por tipos como Haydn, Mozart y Beethoven. Pero el verdadero quiebre vino cuando los signos se empezaron a volver más abstractos gracias a la semiótica en general, cambiando por completo la historia de lo que puede ser una partitura.
 
-img
+![ej.2](./imagenes/partitura-2.jpg)
 
 + Stockhausen y la ciencia electrónica: Hablamos de Karlheinz Stockhausen y su obra *Gesang der Jünglinge*. Este tipo fue el pionero en publicar la primera partitura de música electrónica de la historia, demostrando que no era ruido al azar sino una ciencia exacta. Su partitura combinaba la voz humana y la fonética con puros gráficos de frecuencias electrónicas, metiendo por primera vez el control del espacio tridimensional (el sonido envolvente) directo en el papel.
 
-img
+![ej.3](./imagenes/partitura-3.jpg)
 
 + John Cage y tirar todo al azar: También vimos a John Cage, que encontraba que los compositores tradicionales como Beethoven eran demasiado controladores. Para él, cualquier sonido del mundo podía ser música, desde el ruido del tráfico hasta el silencio de una sala. Su gran aporte fue meter el azar y la libertad absoluta en el arte, inventando las partituras indeterminadas donde el músico interpreta más allá de lo escrito.
 
-img
+![ej.4](./imagenes/partitura-4.jpg)
 
-### Nuestro grupo y el Proyecto 03
+### Avances en el Proyecto 03
 Lluvia de ideas: Después de la introducción teórica, nos pusimos a trabajar en clases con los grupos para avanzar en el Proyecto 03. Con mi grupo nos pusimos a buscar diferentes ideas para inspirarnos en nuestras partituras, explorando cómo los elementos naturales se pueden transformar en signos musicales:
 + Plantas: El crecimiento orgánico nos sirve como ritmo y las hojas como notas.
 + Viento: Usar las direcciones y la intensidad del aire para marcar las dinámicas.
