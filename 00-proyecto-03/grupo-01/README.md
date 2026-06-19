@@ -12,6 +12,12 @@ Integrantes:
 
 Para estar preparados cuando llegase el momento de soldar los componentes a nuestra PCB, decidimos hacer una lista de componentes de Maincra para identificar qué cosas tendríamos que comprar y cuales ya se encontraban en el LID.
 
+Como grupo nos pusimos de acuerdo para usar un color de resistencias en especifico (Café 1/2W), más que nada por razones estéticas. Pero para poder soldar la PCB nos faltaron algunos valores por lo que decidímos hacer una nueva lista de compras.
+
+Al ir a comprar los componentes, erroneamente Bruno compró la mitad de las cosas necesarias para armar las PCB. Otro problema que tuvimos con la compra de componentes fue encontrar los diodos especificos que teníamos anotados en el BOM antiguo, un caballero en San Diego nos vendió un supuesto equivalente del BAT85, cuando en realidad no lo era **y** era muy grande para los agujeron en la PCB. 
+
+Por esto mismo Benjamín fue a buscar los componentes restantes. De igual manera faltaron algunas cosas como transistores, un IC para "nyan cat" y los famosos diodos que no encontrabamos que no estaban disponibles al momento de la compra. Por suerte logramos conseguir los IC's y transistores gracias a compañeros que nos indicaron donde encontrarlos, en cuanto a los diodos, misaaaaaa amablemente nos mostró y compartió un equivalente funcional al que nosotros buscabamos.
+
 # Partituras
 
 ### Ideas descartadas de partituras
@@ -28,19 +34,33 @@ Para estar preparados cuando llegase el momento de soldar los componentes a nues
 
 (ver. literal)  Conectar el piezo a la garganta del intérprete. Este grita durante 30 segundos mientras sale de la sala. Luego, el piezo se desconecta, generando un silencio absoluto de 4 minutos. Posteriormente, el intérprete vuelve a conectar el piezo y entra nuevamente a la sala gritando durante otros 30 segundos. 
 
+> Estas ideas fueron descartadas ya que algunas no son viables como "Escaleras" siendo que las vibraciónes no eran suficientemente fuertes como para que el piezo las pueda detectar. Además la idea era extremadamente similar a una de [Jasper Marsalis](https://emalin.co.uk/artists/jasper-marsalis?l=artists/jasper-marsalis/MARSJ-2022014) y sentímos que nos inspiramos un poco mucho.
+>
+> Descartamos tánto "Golpear" como "Voz" porque la idea no era muy apta para la interpretación en examen. **Si** son buenas ideas pero tenemos mejores. (A nuestro criterio)
+
 ### Partituras oficiales
+
+---
+
+#### Integración a la vida diaria
+
+
+
+---
 
 #### Ping Pong
 
-(ver. literal) Como grupo-01 vamos a ir a República 180, Santiago de Chile con “maincra” (piezo-01), el parlante, RELO (Reloj 555 Monoestable) y “nyan cat” (secuenciador-2). Poner un piezo en cada lado superior de la mesa al centro, y pegar a la mesa 	con cinta adhesiva. Jugar una partida con paletas y pelota de Ping Pong que se piden donde los guardias. Con el impacto de la pelota en la mesa el secuenciador avanza, haciendo que el oscilador pueda funcionar. Jugar durante 5 minutos. Al perder, se cambian los jugadores. Al finalizar los 5 minutos se devuelven las paletas y pelota a los guardias. 
+(ver. literal examen) Como grupo-01 vamos a ir a República 180, Santiago de Chile con “maincra” (piezo-01), el parlante, RELO (Reloj 555 Monoestable) y “nyan cat” (secuenciador-2). Poner un piezo en cada lado superior de la mesa al centro, y pegarlo en la mesa con cinta adhesiva. Jugar una partida con paletas y pelota de Ping Pong que se piden donde los guardias. Con el impacto de la pelota en la mesa el secuenciador avanza, haciendo que el oscilador pueda funcionar. Jugar durante 5 minutos. Al perder, se cambian los jugadores. Al finalizar los 5 minutos se devuelven las paletas y pelota a los guardias. 
+
+(ver. literal 2) Como grupo-01 vamos a ir a República 180, Santiago de Chile con “maincra” (piezo-01), el parlante, RELO y “nyan cat” (secuenciador-2). Poner un piezo en cada lado superior de la mesa al centro, y pegarlo en la mesa con cinta adhesiva. Jugar una partida completa de Ping Pong de 21 puntos con las paletas y pelota que se piden con los guardias. Con el impacto de la pelota en la mesa el secuenciador avanza, haciendo que el oscilador pueda funcionar. Al terminar la partida devolver las paletas y pelota a los guardias.
 
 (ver. poética)
 
->Ve a República 180 y ubica el piezo en la mesa de ping pong
+>**Ve a República 180 y ubica el piezo en la mesa de ping pong**
 
->Invita a alguien a jugar
+>**Invita a alguien a jugar**
 
->Jueguen durante 5 minutos o hasta que se aburran
+>**Jueguen durante 5 minutos o hasta que se aburran**
 
 ![ping-pong-1](./imagenes/mesa-ping-pong-1.gif) 
 
@@ -49,19 +69,23 @@ Para estar preparados cuando llegase el momento de soldar los componentes a nues
 - Ejemplo del funcionamiento del circuito.
 	- Gracias a estos 2 estudiantes de arquitectura que amablemente jugaron Ping Pong para ver si el piezo detectaba las vibraciones de la pelota golpeando la mesa.
 
+---
+
 #### Torniquetes
 
-Como grupo-01 dirigirse a los torniquetes de República 180 y poner un piezo en cada extremo del set que se encuentran en la entrada de la facultad. Procurar que los cables estén asegurados al piso con cinta gaffer para evitar accidentes. Entrar y salir de la FAAD junto a los estudiantes, funcionarios y profesores haciendo funcionar el piezo, secuenciador, RELO y parlante. Tanto la verificación del scan QR como la rotación del torniquete en sí funcionan como activadores del piezo.
+(ver. literal examen) Como grupo-01 dirigirse a los torniquetes de República 180 y poner un piezo en cada extremo del set que se encuentran en la entrada de la facultad. Procurar que los cables estén asegurados al piso con cinta gaffer para evitar accidentes. Entrar y salir de la FAAD junto a los estudiantes, funcionarios y profesores haciendo funcionar el piezo, secuenciador, RELO y parlante. Tanto la verificación del scan QR como la rotación del torniquete en sí funcionan como activadores del piezo. 
+
+(ver. literal 2) Como grupo-01 dirigirse a los torniquetes de República 180 a y poner un piezo en cada extremo del set que se encuentran en la entrada de la facultad. Procurar que los cables estén asegurados al piso con cinta gaffer para evitar accidentes. Entrar y salir de la FAAD junto a los estudiantes, funcionarios y profesores haciendo funcionar el piezo, secuenciador, RELO y parlante. Tanto la verificación del scan QR como la rotación del torniquete en sí funcionan como activadores del piezo. 
 
 (ver. poética)
 
->Ve a República 180
+>**Ve a República 180**
 
->Ubica el piezo en los torniquetes
+>**Ubica el piezo en los torniquetes**
 
->Mira cómo la gente entra y sale
+>**Mira cómo la gente entra y sale**
 
->Código, giro, sonido
+>**Código, giro, sonido**
 
 ![torniquete](./imagenes/torniquete-1.gif) 
 
@@ -75,6 +99,16 @@ Como grupo-01 dirigirse a los torniquetes de República 180 y poner un piezo en 
 ![pcb-1](./imagenes/placas-1.png)
 
 ![pcb-2](./imagenes/placas-2.png) 
+
+La forma de la PCB fue una decisión de ultimo momento al mandar a hacer la placa, esta con la silueta de un disco de Minecraft (hence el nombre).
+
+![disco-minecraft](./imagenes/disco-mc-verde.png)
+
+Un problema que tuvimos al hacer el archivo fue poner la serigrafía en la capa "User.1", por lo que no se imprimió en la PCB. Esto nos llevó a nuestra idea para la carcasa, una plancha de acrílico transparente de 3mm que compramos en Norglas *(Amablemente nos reemplazaron el color siendo que al principio compramos blanco)*
+
+El archivo de corte/grabado fue difícil de hacer, al principio se hizo uno mediante Illustrator sin los Mounting Holes y sin los hoyos para montar los potenciómetros, y sin tanta precisión en las medidas. La segunda versión se hizo pasando el archivo 3D (STL) de la placa a Rhino 8, se eliminaron los componentes, se pasó el objeto sólido a un plano 2D y esto se envió a AutoCAD para crear las lineas de corte y relleno de grabado.
+
+Para armar la carcasa compramos spacers/separadores de 30mm, pernos, golillas y tuercas, todo en formato M3. La idea es tener el acrilico sobre la PCB en formato sandwich. Gracias a la transparencia del acrilico uno va a poder ver el color verde de la placa, por esto mismo decidimos usar LED's acordes a la paleta de colores (Blanca).
 
 --- 
 
@@ -146,3 +180,6 @@ Como grupo-01 dirigirse a los torniquetes de República 180 y poner un piezo en 
 | Condensador polarizado 10 µF | 1 | C4 | $100 | <https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/> | Si |
 | Condensador polarizado 100 µF | 1 | C2 | $100 | <https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/> | Si |
 | LED 3mm | 2 | D2, D3 | $100 | <https://www.mechatronicstore.cl/led-3mm-5mm/> | Si |
+
+
+> *estamos viendo si vamos a lograr usar Chirihue por problemas de conexión entre ambos*
