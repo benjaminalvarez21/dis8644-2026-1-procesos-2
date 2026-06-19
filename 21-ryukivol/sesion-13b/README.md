@@ -35,7 +35,7 @@
 - Pieza de vuelo, volar. Yo quiero ser ese, Pieza de caminar me incomodó, Pieza de reloj me gustó demasiado, estoy trabajando con el concepto del tiempo en otro ramo y leer eso me ayudó en el trabajo por muy simple que sea. 
 
 ## Cap 4,?¿?¿?¿?¿?¿?
-- Poesía... siento que leí de todo menos poesía 
-- Pieza numeral, es algo que perfectamente podría hacer yo... Me cuesta mucho leer, me identifiqué 
+- Poesía... siento que leí de todo menos poesía, luego vi los dibujos extraños, la lista de compras y sentí aún mas extraño.
+- Pieza numeral, es algo que perfectamente podría hacer yo... Me cuesta mucho leer, me identifiqué. 
 
     
