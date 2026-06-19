@@ -355,10 +355,11 @@ El como llegamos a esto viene de revisar y darnos cuentas que muchas placas no p
 
 <br>
 
-La idea principal de esta carcasa es poder soportar cada tipo de placa, además de la utilización de materiales de acero y acrilico. En la cual crecerán semillas de chía
+La idea principal de esta carcasa es poder soportar cada tipo de placa, además de la utilización de materiales de acero y acrilico. En la cual crecerán semillas de chía.
 
-Esto por el mismo motivo del como se articula el secuenciador, es decir, la naturaleza creciendo sobre la rigidez humana
+Esto por el mismo motivo del como se articula el secuenciador, es decir, la naturaleza creciendo sobre la rigidez humana.
 
+![referente](./imagenes/referente-planta-carcasa.jpg) 
 
 ## Placas
 
