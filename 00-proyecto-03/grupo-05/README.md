@@ -70,6 +70,18 @@ Integrantes:
 | Condensador polarizado 100 µF | 1 | $100 | <https://www.mechatronicstore.cl/condensador-capacitorio-de-electrolitico-por-unidad-varios-valores/> | 
 | Interruptor Switch | 1 | $570 | <https://www.katode.cl/switches/1339-interruptor-switch-2-pines-on-off-corto.html?srsltid=AfmBOorJlIeUySzAORFwXSattHKE4BKH2LmhhXZS_8fZ4MW-G6kwnxqA> |
 
+## 2. Ensamblaje
+
+### Placas Soldadas
+
+**Insertar imagen de placas soldadas**
+
+### Proceso tanto en clases y fuera de clases
+
+
+## 3. Propuestas de partituras
+
+
 
 
 
