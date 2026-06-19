@@ -68,6 +68,16 @@ Integrantes:
 ![registro ensamblaje](./imagenes/registro-01.jpg) 
 ![registro ensamblaje](./imagenes/registro-08.jpg) 
 
+### Mixer
+
+Pensamos en que los sintetizadores funcionen a partir de sonidos superpuestos, por lo que las placas no se tocan entre si hasta la salida, que sera controlada por un mixer, es decir los sonidos de cada placa saldran por separado pero al mismo output.
+
+Para el Output está pensado ocupar la placa de parla, un amplificador, pero aún está en conversación.
+
+![mixer](./imagenes/mixer.jpg) 
+
+<https://diystrat.blogspot.com/2008/08/two-channel-mini-mixer.html> 
+
 ## Partituras 
 
 Performance de 5 minutos con el sintetizador diseñado. 
