@@ -166,3 +166,19 @@ Lo que si pude identficar en el primer capitulo fue una tendencia a acciones que
 Algo que no me habia percatado y que luego de hablar con otras personas del libro fue darme cuenta que cada _poema_ son instrucciones que generan un resultado artistico, que a mi parecer son performance. Luego de darle más vueltas logré entender el porque de esta lectura, al solicitarnos hacer _partituras_, este libro nos indica una manera fuera de la norma de como se puede escirbir _sonido_
 
 Otro punto importante, es que al leer y analizar este libro, me doy cuenta que mi visión y manera de entender las cosas es muy rígida, me cuesta salir de mi caja de pensamiento. Muchas veces pienso de maneras concretas, se que ningún extremo es bueno, por lo mismo espero que este ejercicio me sirva para pensar de manera más conceptual 
+
+### Capitulo 1 - Música
+
+   Tal como comenté anteriormente acá se indican instrucciones para la creación sonora y una de pocas que me llamó la atención fue _**Pieza de agua**_, donde la única palabra es _regar_. Y esto ocurre porque me hace recordar mi infancia en la casa de mis abuelos, lugar donde al regar las plantas me ponía a jugar con la manguera, doblandola, apretando el extremo, haciendo movimientos y todo generaba que el agua saliera de diferentes maneras, finalmento esto genera una variedad de sonidos y genera una experiencia al rededor del acto de regar. Pienso y me pregunto si Yoko Ono algún momento habrá regado sus plantas mientras jugaba con su manguera, si habrá mojado a alguien por error o diversión
+
+### Capitulo 2 - Pintura
+
+Acá _**Pintura para el viento**_ me llamó la atención en el primer momento, por lo simple de la acción pero a la vez, la profundidad del resultado. El hacer un agujero y dejar que pase el viento puede ser algo simple de hacer, pero que puede generar una infinidad de resultados, finalmente cada vez que se realice es una obra distinta, ya que nunca será el mismo agujero, en el mismo lugar, en el mismo punto del espacio
+
+Y **_Pintura para construir en la cabeza_**, consiste en hacer con collage de 3 pinturas, pero de manera mental, esto genera que cada vez que lo hagamos tengamos una noción diferente, ya que no nos vamos a enfocar en los mismos elementos 2 veces. Además de que obviamente va a depender de nuestro estado animico, de nuestro cansancio físico y mental, entre otros factores.
+
+En conclusión muchas de las obras que me invitan a reflexionar, son parrafos breves, pero que dejan muchas posibles opciones de desarrollo. ¿Será que al momento de leer esto estaré sobrepensando?¿Cuestionarme esto será por analizar las obras o será sobepensar tambien?
+
+En fin, el que algo parezca simple, pero que genere múltiples resultados, casi como si tuviera vida propia me hace pensar en lo que he vivido en el curso, muchas veces pensé que la electrónica era sencilla, que hacia lo que tenía que hacer y que uno tenia el control y cada vez siento que es algo que funciona cuando y como quiere
+
+
