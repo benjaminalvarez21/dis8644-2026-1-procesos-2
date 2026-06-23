@@ -6,17 +6,20 @@
 Continuando con la programación habitual, veamos que sucedió el día de hoy:
 
 1.	Le dimos la bienvenida a nuestras placas…, nuestras hijas.  
-2.	Aprendimos y enseñamos a soldar. Soldamos.  
-3.	Preparación para presentación del proyecto 03.  
+2.	Aprendimos y enseñamos a soldar. Soldamos.   
 4.	Ono, cap. 5, 6  
 
 Comencemos c:
+
+---
 
 ## 1.	Le dimos la bienvenida a nuestras placas…, nuestras hijas. 
 
 Las placas llegaron a la Universidad Diego Portales el lunes 15 de junio, y el martes 16 de junio, se nos fueron repartidas oficialmente a todo el salón. 
 
 ![](./imagenes/llegaron-las-placas.jpeg)
+
+---
 
 ## 2.	Aprendimos y enseñamos a soldar. Soldamos.  
 
@@ -35,5 +38,29 @@ Las placas llegaron a la Universidad Diego Portales el lunes 15 de junio, y el m
 ![foto12](./imagenes/img12.jpg)
 ![foto13](./imagenes/img13.jpg)
 
-## 3.	Preparación para presentación del proyecto 03.  
-## 4.	Ono, cap. 5, 6  
+---
+ 
+## e.	Ono, cap. 5, 6  
+
+### Capítulo 5 – Objeto
+
+Este capitulo es más corto que los demás, y bueno, aunque para mi no fue tan entretenido como los otros pasados, me gustó mucho los textos en donde jugaba o nombraba las partes del cuerpo humano, como este poema:
+
+
+![1](./imagenes/pieza-de-tienda-de-repuestos.png)
+
+Porque yo me lo tomó de manera literal, y aunque estos tipos de partes del cuerpo no se puedan donar (o quien sabe), lo rescato más como; aunque nosotros creamos que por más únicos que seamos, etc…, de alguna manera al también ser objetos, podemos ser reemplazados, como lo puede ser nuestro corazón (y eso que es uno de los órganos más importantes), o nuestro cuerpo en una morgue, desocupan un “hueco” sacando un cuerpo “objeto”, para meter otro. 
+Me gusta esto de rebajarnos a objetos para poder ver un poquito diferente nuestro pellejo al cual estamos acostumbrados a ver. 
+
+### Capítulo 6 - Cine
+
+Ouh, este capítulo es mucho más corto que el anterior, y al parecer, para realizar estos “ejercicios”, se necesita una sala de cine, o quizá la sala de la casa, y muchas personas…, o 2. 
+De este capítulo no tengo mucho que decir, pero este me gustó mucho, porque me encantaría ver las diversas maneras de escrituras, colores de lapiceros, etc…, de las personas que llegasen a participar de esta “film”, conmigo: 
+
+![2](./imagenes/film-total.png)
+
+Algo que he notado hasta ahora del libro, es la manera grotesca y como ruda de la autora de escribir y de enfrentar al lector en ciertas cosas, como en el formulario final…, que supongo yo que sus pensamientos intrusivos le ganaron, y dice: ¿DIRÍA QUE USTED ES MÁS BIEN UNA PERSONA BOBA?, literalmente, me encanta. 
+
+(Enfréntese a usted mismx a ver cómo le va).
+
+Fin. C:
