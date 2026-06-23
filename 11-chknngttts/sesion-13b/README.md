@@ -20,6 +20,27 @@
           - tenemos que sacarlos y medir bien
       - después fuimos a pernos alameda
         - muy amable el señor que nos vendió 25 pernos anti-deslizantes M3
+
+- ## libro i am grateful... grapefruit!!!
+> **"Pieza para arrojar"**
+> 
+> "Arrojar una piedra al cielo tan alto que nunca vuelva"
+
+- esta pieza me llamó la atención, como lo veo yo al menos es que tiene un sentido de inocencia
+  - es imposible hacer eso, pero uno lo intenta
+    - quizás intentar deshacerse de/postergar cosas pensando que uno puede evitar el encuentro con ellas
+      - pero sí van a volver de una manera o otra
+           
+> **"Pintura para martillar un clavo"**
+> 
+> "Martillar un clavo en el centro de un trozo de vidrio. Enviar cada fragmento a una dirección arbitraria."
+
+- al leer este pasaje me quede pensando, primero que nada en que "que absurdo jaja lol"
+  - y después me dije "es absurdo... que bueno"
+    - a mí por lo menos me gusta que no todo se entienda o que no todo tenga sentido
+      - no necesito saber todo, de hecho varias veces me agrada no entender algo por completo
+        - de igual manera entiendo esta pieza como repartir algo propio al mundo, pero no me gusta mucho mi interpretación
+
        
   - ### estas son canciones hola
     - https://www.youtube.com/watch?v=WXcp0KWHLRM
