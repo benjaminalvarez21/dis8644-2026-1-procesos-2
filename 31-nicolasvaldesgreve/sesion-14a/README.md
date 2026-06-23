@@ -57,3 +57,29 @@ Cuando ya tenía AutoCAD y era feliz, decidí hacer un nuevo archivo de corte ut
 Cuando terminé, el archivo quedó así:
 
 ![Archivo de corte, versión 02](./imagenes/autocad.png)
+
+---
+
+# GRAPEFRUIT: A Book of Instruction and Drawings by Yoko Ono - Cap 5 y 6
+
+HOLA vuelvo a poner mis favoritos y lo que me hizo pensar cada uno!!
+
+![Chimney piece, Yoko Ono](./imagenes/chimney-piece.png)
+
+Primero que todo, estoy seguro de que este capítulo (5) es muuuuucho más corto que los anteriores, pero de igual manera quería rescatar algo para poder mostrarlo en esta sección. Esta pieza me llamó la atención solo por el hecho de que dice que tenemos que construir la chimenea, lo cual implica que para lograr que se vea solo una al alinearla visualmente con las otras que construyamos TODAS tienen que quedar iguales, o también podría ser que mientras vas construyéndolas cada vez las vas haciendo más chicas, lo cual también serviría para que se vea como si fuese solo una al verla desde un punto. De hecho, también funcionaría al verla desde el lado de la más pequeña dependiendo del ángulo y la cercanía en la que estés de la chimenea.
+
+Creo que al pensar en que tenían que ser todas iguales me recordó a cuando en años anteriores teníamos que cumplir con medidas exactas al trabajar en la madera para poder construir varios módulos (de lo que sea) que sean idénticos, lo cual se me hacía difícil debido a que se me olvidaba que había pérdida de milímetros al cortar con las herramientas. Tal vez mi reflexión es que no quiero volver a pañol.
+
+![Film, Yoko Ono](./imagenes/film.png)
+
+Esta pieza se me hace muy linda debido a la última frase: 
+
+> A dream you dream alone may be a dream, but a dream two people dream together is a reality.
+
+Esto es muy real, razón por la cual lo hace tan lindo. En mi experiencia, cuando yo tengo un sueño normalmente me lo mantengo como algo privado y rara vez hago algo para conseguirlo, ya que es simplemente eso: solo un sueño! cosa que cambia cuando conoces a alguien que piensa igual que tú y tiene las mismas ambiciones, sueños y metas, razón por la cual uno por alguna razón decide trabajar junto a la persona para poder conseguir juntos lo que soñamos. La verdad no entiendo muy bien por qué esto cambia solo cuando alguien más se une(? tal vez soy alguien que necesita más motivación por mí mismo LOL.
+
+![Swim, Yoko Ono](./imagenes/swim.png)
+
+Sé que este se sale de los capítulos que se supone que tengo que hablar en esta sección, pero esta pieza me recordó a un sueño que siempre se me repetía cuando era chico (por chico me refiero a edad, onda de los 8 a los 12 años si mi memoria no me falla).
+
+En el sueño yo estaba nadando debajo de un lago, lo cual era una cosa rara ya que no me gusta mucho nadar, y al momento de intentar subir para tomar aire me encontraba con una capa gruesa de hielo que no me permitía salir a respirar. Cuando ya llevaba mucho rato intentando romper el hielo y me empezaba a ahogar, despertaba. Mi teoría es que probablemente mientras dormía mi gato se acostaba en mi cara (cosa que solía hacer y me despertaba ya que sentía su pelo en mi boca) y no me daba cuenta hasta que me faltaba el aire, o tal vez se me olvidaba respirar mientras dormía(? ni idea la verdad.

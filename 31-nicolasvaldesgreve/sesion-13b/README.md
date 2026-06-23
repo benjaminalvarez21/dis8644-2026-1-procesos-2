@@ -8,7 +8,9 @@ Luego de tener la idea medianamente lista, Monki redactó mejor la idea de las p
 
 Cuando pasamos a comprar los cables, pedimos 20 metros de cada color (negro y rojo), pero ninguno de nosotros se fijó si realmente lo estaban midiendo cuando lo cortaron por lo que cuando nos entregaron los cables pensamos que nos habían engañado y que nos dieron menos de 20m porque nos veíamos noobs.
 
-Creo que eso fue todo el día, la verdad no tengo fotos ya que estuvimos ocupados en todo momento. Perdón por lo corto.
+Todas estas cosas las compramos en las tiendas _Pernos Alameda_ e _Importadora de Repuestos Brasil_, en donde gastamos la siguiente cantidad de dinero:
+
+![Imagen boletas que se le entregaron a Bruno](./imagenes/boletas-taller.jpg)
 
 ---
 
